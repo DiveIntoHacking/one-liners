@@ -18,5 +18,5 @@ END_OF_INDEX_HTML
 
 
 cat <<END_OF_JAVASCRIPT_JS > javascript.js
-console.log("Hello, JavaScript!")
+console.log('Hello, JavaScript!');
 END_OF_JAVASCRIPT_JS
