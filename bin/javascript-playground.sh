@@ -11,7 +11,7 @@ cat <<END_OF_INDEX_HTML > index.html
   </head>
 
   <body>
-    <script src="javascript.js"></script>
+    <script src="javascript.js" type="module"></script>
   </body>
 </html>
 END_OF_INDEX_HTML
